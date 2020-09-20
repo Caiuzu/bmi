@@ -1,0 +1,7 @@
+{
+  "name": "c11s-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
