@@ -1,8 +1,8 @@
-#Objetivo
+##Objetivo
 
 Criar uma aplicação cross-platform com **React.js e Ionic framework**.
 
-#Body Mass Index
+##Body Mass Index
 O **Índice da Massa Corporal (Body mass index)**  é uma medida internacional usada para calcular se uma pessoa está no peso ideal.
 
 Desenvolvido pelo polímata Lambert Quételet no fim do século XIX, trata-se de um método fácil e rápido para a 
